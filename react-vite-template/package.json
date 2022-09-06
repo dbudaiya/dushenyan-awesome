@@ -1,0 +1,20 @@
+{
+  "name": "toollirabycode",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "node --experimental-modules ./src/Reduxjs🎭/index.js"
+  },
+  "devDependencies": {
+    "vite": "^2.1.5"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "moment": "^2.29.1",
+    "moment-locales-webpack-plugin": "^1.2.0",
+    "react-redux": "^7.2.3",
+    "redux": "^4.0.5",
+    "store": "^2.0.12"
+  }
+}

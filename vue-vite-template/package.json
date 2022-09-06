@@ -1,0 +1,37 @@
+{
+  "name": "vite-project",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@better-scroll/core": "^2.3.1",
+    "@popperjs/core": "^2.9.2",
+    "@terwanerik/scrolltrigger": "^1.0.5",
+    "animejs": "3.0.1",
+    "bootstrap": "^5.0.1",
+    "grade-js": "^1.0.10",
+    "isotope-layout": "^3.0.6",
+    "jquery": "^3.6.0",
+    "less": "^4.1.1",
+    "naive-ui": "^2.11.11",
+    "sass": "^1.32.13",
+    "scrollreveal": "^4.0.9",
+    "stylus": "^0.54.8",
+    "swiper": "^6.6.1",
+    "typed.js": "^2.0.12",
+    "vfonts": "^0.1.0",
+    "vue": "^3.0.5",
+    "vue-i18n": "^8.24.4",
+    "vue-router": "^3.5.1",
+    "vue-typed-js": "^0.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "video.js": "7.11.4",
+    "vite": "^2.3.0"
+  }
+}

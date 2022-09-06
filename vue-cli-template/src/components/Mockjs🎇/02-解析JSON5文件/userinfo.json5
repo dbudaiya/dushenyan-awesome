@@ -1,0 +1,10 @@
+// 填入你需要的JSON格式字符串
+
+{
+  id: "@id",
+  name: "@cname",
+  date: "@date",
+  email: "@email()",
+  img: "@image()",
+  description: "@paragraph()",
+}

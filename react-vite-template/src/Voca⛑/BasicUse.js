@@ -1,0 +1,1 @@
+// VOCA是一个用于操纵字符串的JavaScript库   https://github.com/panzerdp/voca
